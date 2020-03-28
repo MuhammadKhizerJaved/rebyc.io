@@ -1,2 +1,2 @@
 # rebyc.io
-rebyc.io Domain Parking
+Rebyc Technologies Pakistan.
