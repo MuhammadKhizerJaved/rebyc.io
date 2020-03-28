@@ -1,2 +1,2 @@
 # rebyc.io
-rebyc.io Domain Stage Env
+rebyc.io Domain Parking
